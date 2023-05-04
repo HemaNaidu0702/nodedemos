@@ -1,0 +1,2 @@
+file was created by node js
+second line is appended
